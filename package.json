@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jest": "^29.0.2",
+    "minimist": "^1.2.6",
+    "pg": "^8.8.0",
+    "sequelize": "^6.21.4"
+  },
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "name": "l5-milestone-submission-template",
+  "version": "1.0.0",
+  "main": "addTodo.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprabathk/wd201l5.git"
+  },
+  "author": "Suprabath K <suprabathkondapally@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suprabathk/wd201l5/issues"
+  },
+  "homepage": "https://github.com/suprabathk/wd201l5#readme",
+  "description": ""
+}
